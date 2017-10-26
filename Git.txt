@@ -1,0 +1,28 @@
+1 - https://learngitbranching.js.org/ - Igrica za bolje razumevanje na koji nacin sam git funkcionise,
+2 - https://www.atlassian.com/git/tutorials - Dobri tutorijali koji treba da se prodju. Naredbe koji prvo trebaju da se provuku kroz terminal u linox-u,
+prvo nauciti glavne naredbe za git preko terminala da bi se posle lakse snalazili u radnom okruzenju jer svako radno okruzenje
+vec u sebi ima implementovan sistem za git,
+3 - https://www.youtube.com/watch?v=igxGtPpF29I&list=PLXNTNfUTUEe7atCd_BOcOCF7Qwhk3HKQn - dobar tutorijal na Srpskom jeziku u vezi git-a i github-a.
+
+Git sam po sebi je odlicna stvar, ali mnogi ga potcenjuju, moze dosta da pomogne, ali ako se koristi nestrucno moze doci do
+katastrofalnih posledica. Zato se treba, na pocetku, pre ucenja bilo koje tehnologije, upoznati sa osnovnim funkcijama koje
+git nudi. Termini koje treba znati na pocetku:
+
+- clone
+- commit
+- checkout
+- push
+- pull
+- pull request
+- merge
+- rebase
+- branch
+- gitignore
+- fork
+
+https://www.atlassian.com/git/tutorials/comparing-workflows
+
+Kada se sve ovo prodje trebalo bi simulirati rad na github-u ili bitbucket-u. Clanovi grupe treba da naprave projekat
+od kojih ce svako menjati svoj deo koda. Treba se odrediti po kom workflow sistemu ce biti radjen projekat i tako poceti.
+Svaki od ucesnika ce imati svoju granu u koju ce menati neki deo koda i ponovo push-ovati na master granu.
+Simulirati u svom radnom okruzenje resavanje konflikta.
